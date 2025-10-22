@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**lutherkanabu/lutherkanabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building practical solutions with modern technologies.
 
-Here are some ideas to get you started:
+#### 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[NeoLumizen](https://github.com/lutherkanabu/blog-frontend)** - Full-stack blog platform
+`Go · SvelteKit · PostgreSQL · Railway · Vercel`
+
+**[Sage Academic System](https://github.com/lutherkanabu/sage-academic-system)** - Academic management platform
+`Java · Vaadin · MySQL`
+
+**[Weather App](https://github.com/lutherkanabu/weather-app)** - Real-time weather dashboard
+`Next.js · OpenWeather API · Laravel`
+
+#### 🤝 Contributions
+
+Contributing to [Usiu-Eventure](https://github.com/Ihalake/Usiu-Eventure) - University event management system
