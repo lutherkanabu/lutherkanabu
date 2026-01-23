@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Full-stack developer building practical solutions with modern technologies.
+Full-stack developer building practical solutions and lifelong learner.
