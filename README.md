@@ -79,6 +79,23 @@
   </a>
 </p>
 
+**Cloud & Infrastructure**
+
+<p align="left">
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  </a>
+  <a href="https://azure.microsoft.com" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  </a>
+  <a href="https://www.digitalocean.com" target="_blank">
+    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
+  </a>
+  <a href="https://vercel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  </a>
+</p>
+
 ---
 
 ### Interests
